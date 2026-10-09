@@ -1,0 +1,10 @@
+# NetBeans / Ant
+build/
+dist/
+nbproject/private/
+nbproject/genfiles.properties
+# IDE
+.idea/
+*.iml
+# OS
+.DS_Store
